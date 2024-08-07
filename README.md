@@ -1,5 +1,5 @@
 # Pairs_Trading
-This repo contains code for implementing and analyzing pairs trading strategies using stock market data. Pairs trading is a market-neutral strategy that seeks to profit from the relative movements of two correlated stocks. This notebook includes data collection, preprocessing, cointegration tests, and identification of potential trading pairs. The repo draws inspiration from the paper: [https://www.aqr.com/Insights/Research/White-Papers/Economic-Trend](https://stat.wharton.upenn.edu/~steele/Courses/434/434Context/PairsTrading/PairsTradingGGR.pdf)
+This repo contains code for implementing and analyzing pairs trading strategies using 18 years of stock market data from 2005-2023. Pairs trading is a market-neutral strategy that seeks to profit from the relative movements of two correlated stocks. This notebook includes data collection, preprocessing, cointegration tests, and identification of potential trading pairs. The repo draws inspiration from the paper: [https://www.aqr.com/Insights/Research/White-Papers/Economic-Trend](https://stat.wharton.upenn.edu/~steele/Courses/434/434Context/PairsTrading/PairsTradingGGR.pdf)
 
 ### Price movement of top pair:
 ![Screenshot 2024-08-08 002245](https://github.com/user-attachments/assets/f4b6e517-37d2-4b71-93dc-21d2943ba1ed)
